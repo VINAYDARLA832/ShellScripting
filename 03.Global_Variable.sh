@@ -9,4 +9,4 @@ function2(){
 }
 echo "Iam in main and my name is $Name"
 function1
-funtcion2    
+function2    
